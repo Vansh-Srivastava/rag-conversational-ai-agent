@@ -126,15 +126,6 @@ python app.py
 
 ---
 
-## 📊 Key Achievements
-
-- Improved retrieval precision through semantic search.
-- Reduced hallucinations using document-grounded responses.
-- Enabled contextual conversations using memory management.
-- Built a modular and scalable architecture for future enhancements.
-
----
-
 ## 👨‍💻 Author
 
 **Vansh Srivastava**
